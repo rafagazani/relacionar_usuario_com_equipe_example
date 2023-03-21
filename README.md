@@ -1,0 +1,1 @@
+# relacionar_usuario_com_equipe_example
